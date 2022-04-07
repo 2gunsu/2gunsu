@@ -4,7 +4,8 @@
 
 ### Interest
 * Autonomous Driving
-* 2D/3D Object Detection  
+* Object Detection  
+* Sensor Fusion
 
 ### Publications
 * **2021.05.17 / IEEE Signal Processing Letters**
