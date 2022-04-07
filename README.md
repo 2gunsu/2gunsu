@@ -11,7 +11,7 @@
 
 <img src="http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://velog.io/@2gunsu/"/></a>
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geonsoo-lee-a97045203/"/></a>
-<img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:201501760@o.cnu.ac.kr)](mailto:snugyun01@gmail.com"/></a>
+<img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:201501760@o.cnu.ac.kr)/"></a>
 
 <!--
 **2gunsu/2gunsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
