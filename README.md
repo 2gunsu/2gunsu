@@ -2,6 +2,10 @@
 * B.S. in Electronics Engineering, Chungnam National University, Daejeon, Korea (**2015.03** **~** **2021.02**)
 * M.S in Electronics Engineering, Chungnam National University, Daejeon, Korea (**2021.03** **~**) 
 
+### Interest
+* Autonomous Driving
+* 2D/3D Object Detection
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://2gunsu.github.io/)](https://2gunsu.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geonsoo-lee-a97045203/)](https://www.linkedin.com/in/geonsoo-lee-a97045203/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lgs9505@gmail.com)](mailto:lgs9505@gmail.com)
