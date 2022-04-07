@@ -7,7 +7,7 @@
 * 2D/3D Object Detection  
 	
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2gunsu)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2gunsu)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://velog.io/@2gunsu/)](https://velog.io/@2gunsu)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geonsoo-lee-a97045203/)](https://www.linkedin.com/in/geonsoo-lee-a97045203/)
