@@ -1,4 +1,4 @@
-### Education
+#### Education
 * B.S. in Electronics Engineering, Chungnam National University, Daejeon, South Korea (**2015.03 - 2021.02**)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://2gunsu.github.io/)](https://2gunsu.github.io/)
