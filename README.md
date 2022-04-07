@@ -9,6 +9,7 @@
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2gunsu)](https://github.com/anuraghazra/github-readme-stats)-->
 
+<img src="http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://velog.io/@2gunsu/"/></a>&nbsp 
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://velog.io/@2gunsu/)](https://velog.io/@2gunsu)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geonsoo-lee-a97045203/)](https://www.linkedin.com/in/geonsoo-lee-a97045203/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lgs9505@gmail.com)](mailto:lgs9505@gmail.com)
