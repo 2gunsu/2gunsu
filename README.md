@@ -5,6 +5,9 @@
 ### Interest
 * Autonomous Driving
 * 2D/3D Object Detection  
+
+### Publications
+* Self-supervised Feature Enhancement Networks for Small Object Detection in Noisy Images (2021, IEEE Signal Processing Letters)
 	
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2gunsu)](https://github.com/anuraghazra/github-readme-stats)-->
