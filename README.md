@@ -6,9 +6,11 @@
 * Autonomous Driving
 * 2D/3D Object Detection
 
+<center>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://2gunsu.github.io/)](https://2gunsu.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geonsoo-lee-a97045203/)](https://www.linkedin.com/in/geonsoo-lee-a97045203/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lgs9505@gmail.com)](mailto:lgs9505@gmail.com)
+</center>
 	
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2gunsu)](https://github.com/anuraghazra/github-readme-stats)
