@@ -18,7 +18,7 @@
 
 <div align=center>
 <a href="https://velog.io/@2gunsu/"><img src="http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://velog.io/@2gunsu/"/></a>
-<a href="https://www.linkedin.com/in/geonsoo-lee-a97045203/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geonsoo-lee-a97045203/"/></a>
+<a href="https://www.linkedin.com/in/geonsoo-lee"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geonsoo-lee"/></a>
 <a href="mailto:201501760@o.cnu.ac.kr"><img src="https://img.shields.io/badge/201501760@o.cnu.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:201501760@o.cnu.ac.kr)/"></a>
 </div>
 
