@@ -5,7 +5,6 @@
 ### Interest
 * 🚗 Autonomous Driving
 * 🔲 Object Detection  
-* 📷 Sensor Fusion
 
 ### Publications
 * **2021.05.17 / IEEE Signal Processing Letters**
