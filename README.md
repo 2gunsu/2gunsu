@@ -15,11 +15,13 @@
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2gunsu)](https://github.com/anuraghazra/github-readme-stats)-->
 
+<!--
 <div align=center>
 <a href="https://velog.io/@2gunsu/"><img src="http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://velog.io/@2gunsu/"/></a>
 <a href="https://www.linkedin.com/in/geonsoo-lee"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geonsoo-lee"/></a>
 <a href="mailto:201501760@o.cnu.ac.kr"><img src="https://img.shields.io/badge/201501760@o.cnu.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:201501760@o.cnu.ac.kr)/"></a>
 </div>
+-->
 
 <!--
 **2gunsu/2gunsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
