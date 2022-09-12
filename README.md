@@ -1,10 +1,11 @@
 ### Education
 * 🎓 B.S. in Electronics Engineering, Chungnam National University, South Korea (**2015.03** **~** **2021.02**)
 * M.S in Electronics Engineering, Chungnam National University, South Korea (**2021.03** **~**) 
+🔭 I’m currently working on CVIP Lab.
 
 ### Interest
 * 🚗 Autonomous Driving
-* 🔲 Object Detection  
+* 🔲 3D Object Detection  
 
 ### Publications
 * **2021.05.17 / IEEE Signal Processing Letters / 1st Author🥇**
