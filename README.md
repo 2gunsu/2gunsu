@@ -16,7 +16,9 @@
 	
 <br/>
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=2gunsu">
+<a href="https://github.com/2gunsu">
+	<img src="https://github-readme-stats.vercel.app/api?username=2gunsu">
+</a>
 </div>
 
 <!--
