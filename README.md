@@ -1,6 +1,6 @@
 ### Education
-* 🎓 B.S. in Electronics Engineering, Chungnam National University, South Korea (**2015.03** **~** **2021.02**)
-* M.S in Electronics Engineering, Chungnam National University, South Korea (**2021.03** **~**)  
+* 🎓 B.S., Electronic Engineering, Chungnam National University, South Korea (**2015.03** **~** **2021.02**)
+* M.S., Electronic Engineering, Chungnam National University, South Korea (**2021.03** **~**)  
 
 ### Interest
 * 🚗 Autonomous Driving
