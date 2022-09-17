@@ -12,7 +12,7 @@
 * **2021.10.01 / IEEE Geoscience and Remote Sensing Letters / 1st Author🥇**
 	* [Channel Sampler in Hyperspectral Images for Vehicle Detection](https://ieeexplore.ieee.org/abstract/document/9555818)
 * **2022. / European Conference on Computer Vision (ECCV) / 2nd Author🥈**
-	* Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation
+	* [Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation](https://arxiv.org/abs/2209.05968)
 	
 <br/>
 <div align=center>
