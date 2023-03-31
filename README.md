@@ -16,8 +16,8 @@
 	* [Self-supervised Feature Enhancement Networks for Small Object Detection in Noisy Images](https://ieeexplore.ieee.org/document/9432743)
 * **2021.10.01 / IEEE Geoscience and Remote Sensing Letters / 1st Author🥇**
 	* [Channel Sampler in Hyperspectral Images for Vehicle Detection](https://ieeexplore.ieee.org/abstract/document/9555818)
-* **2022. / European Conference on Computer Vision (ECCV) / 2nd Author🥈**
-	* [Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation](https://arxiv.org/abs/2209.05968)
+* **2022.10.21 / European Conference on Computer Vision (ECCV) / 2nd Author🥈**
+	* [Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136760052.pdf)
 	
 <br/>
 <div align=center>
