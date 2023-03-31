@@ -1,6 +1,9 @@
+### Work Experience
+* Full-time Research Engineer at Agency for Defense Development (ADD) (**2023.04 **~**)
+
 ### Education
 * 🎓 B.S. in Electronic Engineering, Chungnam National University, South Korea (**2015.03** **~** **2021.02**)
-* M.S. in Electronic Engineering, Chungnam National University, South Korea (**2021.03** **~**)  
+* 🎓 M.S. in Electronic Engineering, Chungnam National University, South Korea (**2021.03** **~** **2023.02**) 
 
 ### Interest
 * 🚗 Autonomous Driving
