@@ -19,21 +19,21 @@
 * **2022.10.21 / European Conference on Computer Vision (ECCV) / 2nd Author🥈**
 	* [Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136760052.pdf)
 	
-<br/>
+<!-- <br/>
 <div align=center>
 <a href="https://github.com/2gunsu">
 	<img src="https://github-readme-stats.vercel.app/api?username=2gunsu">
 </a>
-</div>
+</div> -->
 
 <!--
 [![stats](https://github-readme-stats.vercel.app/api?username=2gunsu)](https://github.com/2gunsu)
 -->
 
-<!-- <div align=center>
+<div align=center>
 <a href="https://www.linkedin.com/in/geonsoo-lee"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geonsoo-lee"/></a>
 <a href="mailto:201501760@o.cnu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:201501760@o.cnu.ac.kr)/"></a>
-</div> -->
+</div>
 
 <!--
 <div align=center>
