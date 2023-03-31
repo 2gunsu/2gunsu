@@ -1,5 +1,5 @@
 ### Work Experience
-* Full-time Research Engineer at Agency for Defense Development (ADD) (**2023.04 **~**)
+* Full-time Research Engineer at Agency for Defense Development (ADD) (**2023.04** **~**)
 
 ### Education
 * 🎓 B.S. in Electronic Engineering, Chungnam National University, South Korea (**2015.03** **~** **2021.02**)
