@@ -6,8 +6,10 @@
 * 🎓 M.S. in Electronic Engineering, Chungnam National University, South Korea (**2021.03** **~** **2023.02**) 
 
 ### Interest
-* 🚗 Autonomous Driving
-* 🔲 3D Object Detection  
+* Autonomous Driving
+* 3D Object Detection  
+* Depth Estimation
+* Sensor Fusion
 
 ### Publications
 * **2021.05.17 / IEEE Signal Processing Letters / 1st Author🥇**
