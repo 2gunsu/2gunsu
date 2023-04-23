@@ -19,6 +19,7 @@
 	* [Channel Sampler in Hyperspectral Images for Vehicle Detection](https://ieeexplore.ieee.org/abstract/document/9555818)
 * **2022.10.21 / European Conference on Computer Vision (ECCV) / 2nd Author🥈**
 	* [Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136760052.pdf)
+-->
 	
 <!-- <br/>
 <div align=center>
@@ -31,10 +32,12 @@
 [![stats](https://github-readme-stats.vercel.app/api?username=2gunsu)](https://github.com/2gunsu)
 -->
 
+<!--
 <div align=center>
 <a href="https://www.linkedin.com/in/geonsoo-lee"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geonsoo-lee"/></a>
 <a href="mailto:201501760@o.cnu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:201501760@o.cnu.ac.kr)/"></a>
 </div>
+-->
 
 <!--
 <div align=center>
@@ -57,6 +60,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 -->
